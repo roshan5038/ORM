@@ -49,8 +49,8 @@ admin.site.register(amazon_DB,amazon_DBAdmin)
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
-
+![alt text](<Screenshot 2025-11-21 162244.png>)
+![alt text](<Screenshot 2025-11-21 162328.png>)
 
 ## RESULT
 Thus the program for creating E-commerce website database using ORM hass been executed successfully
