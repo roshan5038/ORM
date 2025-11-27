@@ -49,7 +49,8 @@ admin.site.register(amazon_DB,amazon_DBAdmin)
 
 ## OUTPUT
 
-[alt text](<Screenshot 2025-11-21 162244.png>)
+<img width="1216" height="433" alt="image" src="https://github.com/user-attachments/assets/17226b49-84dc-498b-bcc8-0fb1eadf945b" />
+
 ![alt text](<Screenshot 2025-11-21 162328.png>)
 
 ## RESULT
